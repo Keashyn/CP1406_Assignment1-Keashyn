@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd4f71af-2f46-4b7e-8760-bbe72221e371" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rainbow.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,7 @@
       <updated>1617726796603</updated>
       <workItem from="1617726802675" duration="57000" />
       <workItem from="1617770771264" duration="6707000" />
-      <workItem from="1617787730969" duration="7029000" />
+      <workItem from="1617787730969" duration="11331000" />
     </task>
     <task id="LOCAL-00001" summary="added home page(index.html)">
       <created>1617770891950</created>
@@ -194,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617795299770</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit">
+      <created>1617795791617</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1617795791617</updated>
+    </task>
+    <task id="LOCAL-00019" summary="commit">
+      <created>1617795829162</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1617795829162</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
