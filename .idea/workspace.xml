@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd4f71af-2f46-4b7e-8760-bbe72221e371" name="Default Changelist" comment="added home page(index.html)">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CP1406_Assignment1-Keashyn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/defalt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-social-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-social-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-social-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-social-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/abt.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bakery.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banana_chocolate.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blueberry.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chocolate chip cookie.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chocolate.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cus.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/donut.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/download.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rainbow.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/randy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ras.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vanilla.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vanislice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/aboutme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/special.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/plan.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qnsfpgdVybq4EknyZ5TfyaFXel" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd4f71af-2f46-4b7e-8760-bbe72221e371" name="Default Changelist" comment="" />
+      <created>1617726796603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617726796603</updated>
+      <workItem from="1617726802675" duration="57000" />
+      <workItem from="1617770771264" duration="5342000" />
+    </task>
+    <task id="LOCAL-00001" summary="added home page(index.html)">
+      <created>1617770891950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617770891950</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added home page(index.html)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added home page(index.html)" />
+  </component>
+</project>
