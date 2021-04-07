@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd4f71af-2f46-4b7e-8760-bbe72221e371" name="Default Changelist" comment="added home page(index.html)">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CP1406_Assignment1-Keashyn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/defalt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-social-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-social-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-social-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-social-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/abt.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/apple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bakery.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/banana_chocolate.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/blueberry.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chocolate chip cookie.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chocolate.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cus.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/donut.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/download.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rainbow.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/randy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ras.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/vanilla.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/vanislice.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/aboutme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/special.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/plan.html" afterDir="false" />
-    </list>
+    <list default="true" id="bd4f71af-2f46-4b7e-8760-bbe72221e371" name="Default Changelist" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617726796603</updated>
       <workItem from="1617726802675" duration="57000" />
-      <workItem from="1617770771264" duration="5342000" />
+      <workItem from="1617770771264" duration="5646000" />
     </task>
     <task id="LOCAL-00001" summary="added home page(index.html)">
       <created>1617770891950</created>
@@ -111,7 +71,49 @@
       <option name="project" value="LOCAL" />
       <updated>1617770891950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added about us">
+      <created>1617776681586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617776681586</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added menu">
+      <created>1617776706482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617776706482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added special page">
+      <created>1617776726728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617776726728</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added information for plan and diagram">
+      <created>1617776766146</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617776766146</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1617776789069</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617776789069</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <created>1617776795061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617776795061</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +133,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added home page(index.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added home page(index.html)" />
+    <MESSAGE value="added about us" />
+    <MESSAGE value="added menu" />
+    <MESSAGE value="added special page" />
+    <MESSAGE value="added information for plan and diagram" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
