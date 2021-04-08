@@ -211,7 +211,7 @@ hr{
         position: relative;
         overflow: hidden;
         height: 8em;
-        background: darksalmon;
+        background: #e9967a;
         box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
     }
 
@@ -232,7 +232,7 @@ hr{
         position: absolute;
         left: 0;
         height: 8em;
-        background: lightcoral;
+        background: #f08080;
     }
 
     #logo:before
@@ -267,5 +267,179 @@ hr{
 
     #menu
     {
+        position: absolute;
+        display: block;
+        top: 2.7em;
+        right: 2em;
+        text-align: center;
+    }
 
+    #menu > ul > li > ul
+    {
+        display: none;
+    }
+
+    #menu ul
+    {
+        display: inline-block;
+    }
+
+    #menu li
+    {
+        display: block;
+        float: left;
+        text-align: center;
+    }
+
+    #menu li a
+    {
+        display: block;
+        padding: 0.80em 1.5em;
+        letter-spacing: 0.25em;
+        text-decoration: none;
+        font-size: 0.80em;
+        font-weight: 600;
+        text-transform: uppercase;
+        text-shadow: 1px 1px 0 rgba(0,0,0,0.2);
+        outline: 0;
+        color: #e7fd7f;
+    }
+
+
+    #menu .current_page_item a
+    {
+        color: #FFFFFF;
+    }
+
+    #page
+    {
+        overflow: hidden;
+        padding: 6em 0em 5em 0em;
+    }
+
+
+    #content
+    {
+        float: left;
+        width: 790;
+    }
+
+    #sidebar
+    {
+        float: right;
+        width: 345px;
+    }
+
+    #sidebar .title h2
+    {
+        font-size: 1.6em;
+    }
+
+    #sidebar .box1,
+    #sidebar .box2
+    {
+        margin-bottom: 3em;
+    }
+
+    #footer
+    {
+        overflow: hidden;
+        padding: 5em 0em;
+        text-align: center;
+        text-transform: uppercase;
+        color: #778899;
+    }
+
+    #footer h2
+    {
+        letter-spacing: 0.20em;
+        font-weight: 700;
+        font-size: 2.4em;
+        color: #FFF;
+    }
+
+    #footer .byline
+    {
+        lette-spacing: 0.15em;
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 0.90em;
+        color: #FFFFFF;
+    }
+
+    #copyright
+    {
+        overflow: hidden;
+        padding: 20px 0em 0;
+    }
+
+    #copyright p
+    {
+        letter-spacing: 0.20em;
+        text-align: center;
+        text-transform: uppercase;
+        fpnt-size: 1em;
+        color: #FFFDFD;
+    }
+
+    #copyright a
+    {
+        text-decoration: none;
+        color: #8C8C8C;
+    }
+
+    .borders
+    {
+        overflow: hidden;
+        margin-bottom: 4em;
+        padding-bottom: 3em;
+        border-bottom: 1px solid #E5E5E5;
+    }
+
+
+    #portfolio
+    {
+        text-align: center;
+    }
+
+    #portfolio2
+    {
+        text-align: center;
+        margin-top: 100px;
+
+    }
+    #portfolio .title h2
+    {
+        color: #262626;
+    }
+
+    #column1,
+    #column2,
+    #column3,
+    #column4
+    {
+        width: 282px;
+        padding-top: 30px;
+    }
+
+    #column1,
+    #column2
+    {
+        float: left;
+        margin-right: 24px;
+    }
+
+    #column3
+    {
+        float: left;
+    }
+
+    #column4
+    {
+        float: right;
+    }
+
+    #footer-link{
+        text-align: center;
+        list-style: none;
     }
