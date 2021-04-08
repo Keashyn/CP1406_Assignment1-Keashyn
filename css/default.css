@@ -324,23 +324,6 @@ hr{
         width: 790;
     }
 
-    #sidebar
-    {
-        float: right;
-        width: 345px;
-    }
-
-    #sidebar .title h2
-    {
-        font-size: 1.6em;
-    }
-
-    #sidebar .box1,
-    #sidebar .box2
-    {
-        margin-bottom: 3em;
-    }
-
     #footer
     {
         overflow: hidden;
