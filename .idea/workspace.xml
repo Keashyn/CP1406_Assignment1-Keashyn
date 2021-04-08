@@ -77,6 +77,7 @@
       <workItem from="1617843334009" duration="2103000" />
       <workItem from="1617857771221" duration="11433000" />
       <workItem from="1617871372173" duration="1791000" />
+      <workItem from="1617873183268" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="added home page(index.html)">
       <created>1617770891950</created>
@@ -281,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617873151839</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="commit">
+      <created>1617873193094</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1617873193094</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
