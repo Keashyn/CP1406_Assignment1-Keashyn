@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd4f71af-2f46-4b7e-8760-bbe72221e371" name="Default Changelist" comment="commit" />
+    <list default="true" id="bd4f71af-2f46-4b7e-8760-bbe72221e371" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,13 +89,7 @@
       <workItem from="1618301599514" duration="128000" />
       <workItem from="1618385324620" duration="280000" />
       <workItem from="1618415608532" duration="2197000" />
-    </task>
-    <task id="LOCAL-00002" summary="added about us">
-      <created>1617776681586</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1617776681586</updated>
+      <workItem from="1618418222780" duration="302000" />
     </task>
     <task id="LOCAL-00003" summary="added menu">
       <created>1617776706482</created>
@@ -431,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618417809653</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="commit">
+      <created>1618418377737</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1618418377738</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
