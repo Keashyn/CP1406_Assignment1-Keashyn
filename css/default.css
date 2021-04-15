@@ -354,7 +354,9 @@ hr{
     #copyright
     {
         overflow: hidden;
-        padding: 20px 0em 0;
+        padding: 5em 0em;
+        padding-top: 20px;
+        padding-bottom: 0;
     }
 
     #copyright p
